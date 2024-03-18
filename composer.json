@@ -1,5 +1,5 @@
 {
-    "name": "asantibanez/laravel-eloquent-state-machines",
+    "name": "forty/laravel-11-eloquent-state-machines",
     "description": "State machines for your Laravel Eloquent models",
     "keywords": [
         "asantibanez",
